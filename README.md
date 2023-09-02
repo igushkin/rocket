@@ -5,7 +5,7 @@
 
 ![](/examples/example.gif "Rocket")
 
-The movement of objects and their interaction is described using vectors. The game has the following levels:
+The movement of objects and their interaction is described using basic arithmetic operations with two-dimensional vectors. The game has the following levels:
 
 * Zero. Zero gravity.
 * Heavy. Constant gravity, directed downward.
