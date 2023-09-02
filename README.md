@@ -1,22 +1,18 @@
-# Photoshop
+# Rocket Game
 
-**Photoshop is a Windows Forms application that allows the user to apply basic filters to an image**
+**Rocket Game is a Windows Forms application that simulates the basics of motion**
 <br />
 
-![](/examples/photo-editing.gif "Photoshop")
+![](/examples/example.gif "Rocket")
 
-**Color**  
+The movement of objects and their interaction is described using vectors. The game has the following levels:
 
-The color of the image is changed by changing the RGB channel values.
-
-**Rotation**
-
-A rotation is described by one angle θ with the following linear transformation matrix
-([original source](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0)):  
-
-![](/examples/formula.png)  
-
-![](/examples/core.png "")
+* Zero. Zero gravity.
+* Heavy. Constant gravity, directed downward.
+* Up. Constant gravity, directed upwards.
+* WhiteHole. Gravity is directed away from the target.
+* BlackHole. Gravity is directed towards the anomaly.
+* BlackAndWhite. There is a black and white hole on the level.
 
 ## Built With
 
@@ -30,5 +26,5 @@ This application requires .NET Framework 4.5 to run.
 Dowload the source, compile and run should work out of the box.
 
 ```
-git clone https://github.com/igushkin/photoshop-pre-alpha-release.git
+git clone https://github.com/igushkin/rocket.git
 ```
