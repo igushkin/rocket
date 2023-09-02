@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXRw3WqtNkVsWTUNzku+cDA0YSu3yBkCGKBwlBrXWMvISDpvAjA8t8QMLGNb0Ll5MXsStQc9H1BPPtV6IUsuVg==",
+  "dgSpecHash": "wJN5fIkTgGq4OwHrzNpTW7oXio3dEGfGZ1Wjztd7xiQY0/29MfVzXprCd830vcUslYaTv58xjaIAUzP2Rn9vAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\igush\\Downloads\\rocket\\Rocket.csproj",
+  "projectFilePath": "C:\\Users\\igush\\net\\rocket\\Rocket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igush\\.nuget\\packages\\avalonia\\0.10.13\\avalonia.0.10.13.nupkg.sha512",
     "C:\\Users\\igush\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2020091801\\avalonia.angle.windows.natives.2.1.0.2020091801.nupkg.sha512",

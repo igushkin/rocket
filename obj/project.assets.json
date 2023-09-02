@@ -5385,11 +5385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igush\\Downloads\\rocket\\Rocket.csproj",
+      "projectUniqueName": "C:\\Users\\igush\\net\\rocket\\Rocket.csproj",
       "projectName": "Rocket",
-      "projectPath": "C:\\Users\\igush\\Downloads\\rocket\\Rocket.csproj",
+      "projectPath": "C:\\Users\\igush\\net\\rocket\\Rocket.csproj",
       "packagesPath": "C:\\Users\\igush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igush\\Downloads\\rocket\\obj\\",
+      "outputPath": "C:\\Users\\igush\\net\\rocket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\igush\\AppData\\Roaming\\NuGet\\NuGet.Config",

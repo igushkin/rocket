@@ -12,10 +12,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = func_rocket
-build_property.ProjectDir = C:\Users\igush\Downloads\rocket\
+build_property.ProjectDir = C:\Users\igush\net\rocket\
 
-[C:/Users/igush/Downloads/rocket/UI/App.axaml]
+[C:/Users/igush/net/rocket/UI/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/igush/Downloads/rocket/UI/MainWindow.axaml]
+[C:/Users/igush/net/rocket/UI/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
