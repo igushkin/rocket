@@ -1,6 +1,6 @@
 # Rocket Game
 
-**Rocket Game is a Windows Forms Motion Simulation app that created for the sake of interest**
+**Rocket Game is a Windows Forms Motion Simulation app that was created for the sake of interest**
 <br />
 
 ![](/examples/example.gif "Rocket")
