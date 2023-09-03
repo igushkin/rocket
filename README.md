@@ -1,6 +1,6 @@
 # Rocket Game
 
-**Rocket Game is a Windows Forms application that simulates the basics of motion**
+**Rocket Game is a Windows Forms Motion Simulation app that created for the sake of interest**
 <br />
 
 ![](/examples/example.gif "Rocket")
